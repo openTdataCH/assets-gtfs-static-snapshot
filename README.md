@@ -1,0 +1,1 @@
+Used by [OJP GTFS-RT Comparison](https://github.com/openTdataCH/OJP-Showcase/tree/develop/apps/gtfs-rt-status) web tool
